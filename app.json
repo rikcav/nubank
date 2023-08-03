@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "bank",
-    "slug": "bank",
+    "name": "nubank",
+    "slug": "nubank",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
